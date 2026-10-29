@@ -1,0 +1,18 @@
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#1769B5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#EEF5FC"
+textColor = "#243B53"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+

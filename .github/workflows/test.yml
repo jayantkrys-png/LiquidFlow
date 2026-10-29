@@ -1,0 +1,25 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - name: Install
+        run: |
+          pip install -r requirements.lock.txt
+          pip install -e . --no-deps
+      - name: Check source files
+        run: python scripts/audit_sources.py
+      - name: Check headline numbers
+        run: python scripts/verify_results.py
+      - name: Tests
+        run: python -m pytest -q

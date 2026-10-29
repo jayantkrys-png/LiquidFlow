@@ -1,0 +1,9 @@
+* text=auto
+
+# Explicitly mark binaries
+*.png binary
+*.pdf binary
+*.ttf binary
+*.cbm binary
+*.joblib binary
+*.parquet binary

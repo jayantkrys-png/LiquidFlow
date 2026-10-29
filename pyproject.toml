@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "liquidflow"
+version = "1.0.0"
+description = "Net-flow forecasts and cash-buffer sizing for Indian liquid and overnight mutual funds"
+requires-python = ">=3.11"
+
+[tool.setuptools.packages.find]
+include = ["liquidflow*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+extend-exclude = [
+    "liquidflow/evaluation.py",
+    "liquidflow/forecast.py",
+]
