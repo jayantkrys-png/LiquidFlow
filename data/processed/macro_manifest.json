@@ -1,0 +1,859 @@
+{
+  "sources": [
+    {
+      "url": "https://www.rbi.org.in/scripts/PublicationsView.aspx?id=23999",
+      "retrieved_at": "2026-10-29T09:11:47.152619+00:00",
+      "sha256": "34c28198797f9f3cbe74748425a3e899dbf13798823aa87d298fa63b0b8e015f",
+      "bytes": 76671,
+      "http_last_modified": null
+    },
+    {
+      "url": "https://www.rbi.org.in/scripts/PublicationsView.aspx?id=24007",
+      "retrieved_at": "2026-10-29T09:11:48.106698+00:00",
+      "sha256": "39d285427474d013f37e6a6e4107608c2e6617ca94e69bd6ffc7798bc08231ba",
+      "bytes": 67345,
+      "http_last_modified": null
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18177",
+      "retrieved_at": "2026-10-29T09:12:00.695949+00:00",
+      "sha256": "5dabc8e1657728242d343442e215e08867a4c3b193210ef31497c45cb4797c4b",
+      "bytes": 146454,
+      "http_last_modified": null,
+      "rows": 9,
+      "source_id": "18177"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18236",
+      "retrieved_at": "2026-10-29T09:12:00.745847+00:00",
+      "sha256": "f117a5c0afacdfd680644cabd3c744570026ea30a44873b3bce29fe15bd38c48",
+      "bytes": 149800,
+      "http_last_modified": null,
+      "rows": 3,
+      "source_id": "18236"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18060",
+      "retrieved_at": "2026-10-29T09:12:00.883108+00:00",
+      "sha256": "53ab65d9ee1c1dcf7b2e8d35626959d7db394551696b2699c6655f48337c8dcc",
+      "bytes": 147917,
+      "http_last_modified": null,
+      "rows": 15,
+      "source_id": "18060"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18116",
+      "retrieved_at": "2026-10-29T09:12:00.920098+00:00",
+      "sha256": "560662769a64c3571a150ac9407041c56f395701d8e4df15be1208de118a3afe",
+      "bytes": 149771,
+      "http_last_modified": null,
+      "rows": 5,
+      "source_id": "18116"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=17999",
+      "retrieved_at": "2026-10-29T09:12:00.980190+00:00",
+      "sha256": "f5175bde6dd99eba984fa8221b3e847c37c87f9c87c22d8fd954eda320250827",
+      "bytes": 148806,
+      "http_last_modified": null,
+      "rows": 5,
+      "source_id": "17999"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18354",
+      "retrieved_at": "2026-10-29T09:12:01.846436+00:00",
+      "sha256": "c47831936e0ae82fa740faf9fd8c2908512f433c46b7307eb92b1e8f53f5b640",
+      "bytes": 149561,
+      "http_last_modified": null,
+      "rows": 3,
+      "source_id": "18354"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18293",
+      "retrieved_at": "2026-10-29T09:12:02.127232+00:00",
+      "sha256": "7757e1cfe7c45fb00a7a863c541be119d2af9f855f7e4b33311a9484ad270a48",
+      "bytes": 147174,
+      "http_last_modified": null,
+      "rows": 5,
+      "source_id": "18293"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18413",
+      "retrieved_at": "2026-10-29T09:12:02.173614+00:00",
+      "sha256": "90a0548752b339a864c8b80fc14e3e17412eea0c3aa14901128fc9e3230ca87a",
+      "bytes": 145789,
+      "http_last_modified": null,
+      "rows": 0,
+      "source_id": "18413"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18471",
+      "retrieved_at": "2026-10-29T09:12:02.246363+00:00",
+      "sha256": "f342a48c65e22f7af5a8cb8576ff8d82914384195439e0176e6d3a08315b0238",
+      "bytes": 147288,
+      "http_last_modified": null,
+      "rows": 25,
+      "source_id": "18471"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18532",
+      "retrieved_at": "2026-10-29T09:12:02.472437+00:00",
+      "sha256": "93e260c4c1887ee885f2d15433da8eac81049438c5f70df62ceaa3e56fbeed57",
+      "bytes": 147328,
+      "http_last_modified": null,
+      "rows": 23,
+      "source_id": "18532"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18587",
+      "retrieved_at": "2026-10-29T09:12:03.154791+00:00",
+      "sha256": "69e2d0afb13d9a302800fb4f8c930f7f7768db4bf620a6799d09b5d3b1ebb50e",
+      "bytes": 147265,
+      "http_last_modified": null,
+      "rows": 23,
+      "source_id": "18587"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18649",
+      "retrieved_at": "2026-10-29T09:12:03.480188+00:00",
+      "sha256": "fd239f329ef62ac77cafdcbd1efa505c435d404e207dfdf3011bf304a8f9f169",
+      "bytes": 147350,
+      "http_last_modified": null,
+      "rows": 23,
+      "source_id": "18649"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18709",
+      "retrieved_at": "2026-10-29T09:12:03.496393+00:00",
+      "sha256": "b977deb56db8ba47b401d11191760c7dca0af2da0bd58312a29757ddb79f1d88",
+      "bytes": 148163,
+      "http_last_modified": null,
+      "rows": 24,
+      "source_id": "18709"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18826",
+      "retrieved_at": "2026-10-29T09:12:03.675482+00:00",
+      "sha256": "8bd0ebac96a6fa9f79c31e7d4477678227484a973e0d2bfa22822b09dc2c4cc3",
+      "bytes": 153573,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "18826"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18769",
+      "retrieved_at": "2026-10-29T09:12:03.679013+00:00",
+      "sha256": "17b803f093668e5db5d87dda8885a8517e3555b3cec80e5156d2e0cf3415fae9",
+      "bytes": 150485,
+      "http_last_modified": null,
+      "rows": 27,
+      "source_id": "18769"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=19000",
+      "retrieved_at": "2026-10-29T09:12:04.126920+00:00",
+      "sha256": "d5f88ebeba3d2f89a6671d9f5021bd6e2495ee27ce2aa1beee078bf2aa92c2a6",
+      "bytes": 159088,
+      "http_last_modified": null,
+      "rows": 29,
+      "source_id": "19000"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18884",
+      "retrieved_at": "2026-10-29T09:12:04.471554+00:00",
+      "sha256": "7811d75df58badc7c2f410e6eab130a87ceb8fbee90b36988d87ffccbaba2a98",
+      "bytes": 153753,
+      "http_last_modified": null,
+      "rows": 29,
+      "source_id": "18884"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=18940",
+      "retrieved_at": "2026-10-29T09:12:04.677882+00:00",
+      "sha256": "32173b4d4919a3fe4f84fddcfbe673ce537957a551410010cb13f6a668832c48",
+      "bytes": 157745,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "18940"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=19662",
+      "retrieved_at": "2026-10-29T09:12:04.780296+00:00",
+      "sha256": "e0294a46ee3ff4351570b77820f8ef9a71030321ddf2d2ccee275e46aba88bec",
+      "bytes": 159675,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "19662"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=19723",
+      "retrieved_at": "2026-10-29T09:12:05.115407+00:00",
+      "sha256": "6807bd443a6cae6abe0cc1f25ea411e37aedbfa8b2de443304881895ee13c55c",
+      "bytes": 158823,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "19723"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=19841",
+      "retrieved_at": "2026-10-29T09:12:05.151184+00:00",
+      "sha256": "804e1ece7721bbe991cfa0ef76a1ecae9b827269cd08f22715dd1f13196b2bfe",
+      "bytes": 162673,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "19841"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=19780",
+      "retrieved_at": "2026-10-29T09:12:05.486326+00:00",
+      "sha256": "c1857bd9ac5e8eccfad7745278a1fcd05dbfb3c6fb750bfdfc51d72dca7d2015",
+      "bytes": 159900,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "19780"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=19967",
+      "retrieved_at": "2026-10-29T09:12:05.883496+00:00",
+      "sha256": "03b0d6a8f1f3c3394cc63f675ee22731f47c152ce19b4a9bdd90974d42015c57",
+      "bytes": 162819,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "19967"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=19902",
+      "retrieved_at": "2026-10-29T09:12:06.027417+00:00",
+      "sha256": "6e8c3fd112c70ef7caa81942f4296b8961961047247701c6364326af8ac63db6",
+      "bytes": 160524,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "19902"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20025",
+      "retrieved_at": "2026-10-29T09:12:06.234386+00:00",
+      "sha256": "943465f77cb03871ff97b5797e6fc48f4946db34254b31cecf482f26dcb8e5ba",
+      "bytes": 162273,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "20025"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20088",
+      "retrieved_at": "2026-10-29T09:12:06.631489+00:00",
+      "sha256": "b99def3331f84b0c7d8b43b3d126c4fda4d608d3eb8a584ffebf133f9c837f9b",
+      "bytes": 163218,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "20088"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20146",
+      "retrieved_at": "2026-10-29T09:12:06.828025+00:00",
+      "sha256": "6de68886d478cc34ba83cc14137e9296ff4988e389e0b42a027a6ffc9bbc2d12",
+      "bytes": 163260,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "20146"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20208",
+      "retrieved_at": "2026-10-29T09:12:06.935657+00:00",
+      "sha256": "3b4de88269ac6bf3a45406cc1e85ec0d2e943b5679e7507115ebf989a09766cb",
+      "bytes": 160118,
+      "http_last_modified": null,
+      "rows": 28,
+      "source_id": "20208"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20445",
+      "retrieved_at": "2026-10-29T09:12:07.331140+00:00",
+      "sha256": "f8b56e4c6e4b6537048433008d48fd8008fa3dbf3f4d7657069f086ebce177f9",
+      "bytes": 163519,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "20445"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20325",
+      "retrieved_at": "2026-10-29T09:12:07.350237+00:00",
+      "sha256": "2cfd420f650d7ab6da8fba57391776d20e22cfca48073d0007455830fe09c561",
+      "bytes": 160833,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "20325"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20266",
+      "retrieved_at": "2026-10-29T09:12:07.430467+00:00",
+      "sha256": "e31d46f7fc14810f944d8e836003340aa4c3fa5825e61f9a904e7e8413d0d516",
+      "bytes": 161860,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "20266"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20382",
+      "retrieved_at": "2026-10-29T09:12:07.722004+00:00",
+      "sha256": "f16314c9dbbe390990cefed0348707b9febfb32ebf31dc0c9cb405b01efd1bbb",
+      "bytes": 164239,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "20382"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20505",
+      "retrieved_at": "2026-10-29T09:12:08.090001+00:00",
+      "sha256": "19eb4bc4603cfff5fe4f1783d175a6db2aff961d390812ecb5d31142785a6d3d",
+      "bytes": 164596,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "20505"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20696",
+      "retrieved_at": "2026-10-29T09:12:08.630898+00:00",
+      "sha256": "ba33f3255601ff3a83914cdbd45f89e1c381d9ff99d7401ea297409047325135",
+      "bytes": 164644,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "20696"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20572",
+      "retrieved_at": "2026-10-29T09:12:08.732091+00:00",
+      "sha256": "1aad92cd9fbdad30e24b29c0bcd5e9cf74990778098d46cb2d4e7edc70e5a921",
+      "bytes": 164413,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "20572"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20634",
+      "retrieved_at": "2026-10-29T09:12:08.882190+00:00",
+      "sha256": "3ddc909ea9191d5568203a36dfab2ba5129ee09c9fd61589ffc8d24666f89d63",
+      "bytes": 163510,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "20634"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20755",
+      "retrieved_at": "2026-10-29T09:12:08.992082+00:00",
+      "sha256": "4ffca56e0ca4c0445578ddfb9a56edbbd2ba36e3a3c2c234d485734a40961090",
+      "bytes": 162106,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "20755"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20818",
+      "retrieved_at": "2026-10-29T09:12:09.522843+00:00",
+      "sha256": "37372f302b598d6a53307cb2a01e499583d0026d25d157682b45b1f220aeb491",
+      "bytes": 164772,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "20818"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20945",
+      "retrieved_at": "2026-10-29T09:12:09.889888+00:00",
+      "sha256": "0985a60dfb66149b54c3f75bad5003ff451c756c8c9c62ae4ebf530a67189028",
+      "bytes": 161595,
+      "http_last_modified": null,
+      "rows": 28,
+      "source_id": "20945"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=20878",
+      "retrieved_at": "2026-10-29T09:12:10.095567+00:00",
+      "sha256": "3c2281ec5b18d043c56205f002b44acf626cdc84319a9c1a44e797fcf3320665",
+      "bytes": 164700,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "20878"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21007",
+      "retrieved_at": "2026-10-29T09:12:10.195745+00:00",
+      "sha256": "49738e4ff2b513628707ee4adaf3ba1bf7dca9b582607d209a77bd30963c170a",
+      "bytes": 164631,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "21007"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21076",
+      "retrieved_at": "2026-10-29T09:12:10.386625+00:00",
+      "sha256": "f012c08c5ce161cfffcbf223e62cbcbef521a2bfd768a082ddaebce344298ffd",
+      "bytes": 152459,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "21076"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21145",
+      "retrieved_at": "2026-10-29T09:12:10.747145+00:00",
+      "sha256": "2f664cac11965091585efd087c6e58449ae16d1460e626623f431c9388f8f408",
+      "bytes": 153048,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "21145"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21274",
+      "retrieved_at": "2026-10-29T09:12:11.196137+00:00",
+      "sha256": "96a0176ceaf94659a600078604c4051ab0dcc641b3a0c4f764baa36285e93105",
+      "bytes": 153231,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "21274"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21212",
+      "retrieved_at": "2026-10-29T09:12:11.341438+00:00",
+      "sha256": "639c97c6cedfa3969f1168ac39c749041a0aae983446c6d514e7a1de1ec1573a",
+      "bytes": 150887,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "21212"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21339",
+      "retrieved_at": "2026-10-29T09:12:11.486882+00:00",
+      "sha256": "d7689e2ba042381c8422286dfdbeebd66f56240239f5ff76f4ba63107cee3d31",
+      "bytes": 153403,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "21339"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21407",
+      "retrieved_at": "2026-10-29T09:12:11.638959+00:00",
+      "sha256": "ae45c7bf2b72d9cd9674bf921d2e95514faae6de92fc6b58f67e39f20c25dbd7",
+      "bytes": 152523,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "21407"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21540",
+      "retrieved_at": "2026-10-29T09:12:11.788316+00:00",
+      "sha256": "8ae157792aad0a2d3e1d70979928042421ec0508321620ed1c40199eddfaaf98",
+      "bytes": 150914,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "21540"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21477",
+      "retrieved_at": "2026-10-29T09:12:12.171557+00:00",
+      "sha256": "e5b8a84d6f57e95a7e1e571bb530a01267c03796ceb2c436cfbca3a1c916bfc2",
+      "bytes": 153201,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "21477"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21607",
+      "retrieved_at": "2026-10-29T09:12:12.549787+00:00",
+      "sha256": "c555f06f251051204741a16fc417ec4e19cc4bd7bd0733b2ca8fa93f2d049225",
+      "bytes": 153237,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "21607"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21672",
+      "retrieved_at": "2026-10-29T09:12:12.628691+00:00",
+      "sha256": "5eab028329c4865cd3565ac90d289f5f85aa2edeaf5b3542882140721ee79171",
+      "bytes": 153182,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "21672"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21737",
+      "retrieved_at": "2026-10-29T09:12:12.789825+00:00",
+      "sha256": "35240d363307a88c9280eb50b885bed729613050d787a95bf7e410fbaa87fc81",
+      "bytes": 150841,
+      "http_last_modified": null,
+      "rows": 28,
+      "source_id": "21737"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21799",
+      "retrieved_at": "2026-10-29T09:12:12.946435+00:00",
+      "sha256": "e29870ded427b1eee531a93c103950727746198acb5d24d80de8223da4a12c8b",
+      "bytes": 153221,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "21799"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21869",
+      "retrieved_at": "2026-10-29T09:12:13.348459+00:00",
+      "sha256": "ee5cac768c6a1c60d8967cab072ca21bd87acb27a48e0a0e46944ecb4f37e6b1",
+      "bytes": 152362,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "21869"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21998",
+      "retrieved_at": "2026-10-29T09:12:13.541847+00:00",
+      "sha256": "a5c8c4ceeeb6a344f06d51916f3962a905e2c2ec91eee13dbbd80f1380a0b362",
+      "bytes": 152165,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "21998"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=21933",
+      "retrieved_at": "2026-10-29T09:12:13.738747+00:00",
+      "sha256": "59b36724a28ddf12cd17b52ec586d6b61b7f9a7d5833f4533e5786e460dedcc3",
+      "bytes": 152899,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "21933"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22064",
+      "retrieved_at": "2026-10-29T09:12:14.035349+00:00",
+      "sha256": "a31076372ce113412920a5bf0b1e414ee9112662b8ec03f3b2f21b7461b11e97",
+      "bytes": 152950,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "22064"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22131",
+      "retrieved_at": "2026-10-29T09:12:14.290279+00:00",
+      "sha256": "ffb9126c7ecae4b370fa829d61b51187ed71e758ec9386c08a7ace1f9899df33",
+      "bytes": 152929,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "22131"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22195",
+      "retrieved_at": "2026-10-29T09:12:14.680424+00:00",
+      "sha256": "b8708d78234633bccd72177d85c393299325794df4190c66e01a361820e5ad1c",
+      "bytes": 152174,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "22195"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22262",
+      "retrieved_at": "2026-10-29T09:12:14.734346+00:00",
+      "sha256": "e554ec1c28c6469ef8a3a728f547b89b899fcc3e1de4758f5be90d5fb8375ad1",
+      "bytes": 151327,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "22262"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22330",
+      "retrieved_at": "2026-10-29T09:12:14.930421+00:00",
+      "sha256": "e5024aabe01451bd17d12dbd8e04a2ebdbf299ee09c73ddf0bcf03c0dc5c0100",
+      "bytes": 152151,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "22330"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22399",
+      "retrieved_at": "2026-10-29T09:12:15.478178+00:00",
+      "sha256": "2ac6456b915f655a4cf5e39758c7d9a776b803de794e236391322eb5d4b20230",
+      "bytes": 152957,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "22399"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22531",
+      "retrieved_at": "2026-10-29T09:12:15.642555+00:00",
+      "sha256": "add420226b4ba472ff489827772fe2ef5aaef3ccdef4cca9debabd4ab89d0491",
+      "bytes": 151466,
+      "http_last_modified": null,
+      "rows": 29,
+      "source_id": "22531"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22461",
+      "retrieved_at": "2026-10-29T09:12:15.819135+00:00",
+      "sha256": "77cece2e947adc94f1173624eb72ae97175ce82fb3e95b57d54fdb9774498178",
+      "bytes": 152909,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "22461"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22593",
+      "retrieved_at": "2026-10-29T09:12:16.062504+00:00",
+      "sha256": "0628458d2cc6f703aac0edc739b26b79ba3c556e6ee9500c67c58fb656859f0e",
+      "bytes": 153012,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "22593"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22795",
+      "retrieved_at": "2026-10-29T09:12:16.789437+00:00",
+      "sha256": "9c77a906ff9c0e211b42045901fcf5081be832e40a6aff63bec5621acab0a39e",
+      "bytes": 152123,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "22795"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22724",
+      "retrieved_at": "2026-10-29T09:12:16.796582+00:00",
+      "sha256": "043aae74fef363624117e38fd6354526892c1a655d23f95dfab60ca9df7d2eea",
+      "bytes": 152998,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "22724"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22937",
+      "retrieved_at": "2026-10-29T09:12:17.278552+00:00",
+      "sha256": "bce6783a67a2b61798055cf5756d245bf81b80342bc0642f16d01bf95484f68b",
+      "bytes": 153109,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "22937"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22865",
+      "retrieved_at": "2026-10-29T09:12:17.286404+00:00",
+      "sha256": "b76ea56cdb19017b6d9e39741a05ce3a5e508b70f3496dbf6d90c27ee551ef40",
+      "bytes": 153095,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "22865"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=22657",
+      "retrieved_at": "2026-10-29T09:12:17.331715+00:00",
+      "sha256": "c5e537e48aa985e45fa489dd1276c3f170daf7a9573ef4803297c7bb2b5439b8",
+      "bytes": 152208,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "22657"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23074",
+      "retrieved_at": "2026-10-29T09:12:17.484187+00:00",
+      "sha256": "451fb633ee92872df3848ae81269beca1f3ad1b45127902b22c2d3226b63e588",
+      "bytes": 153070,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "23074"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23002",
+      "retrieved_at": "2026-10-29T09:12:18.102996+00:00",
+      "sha256": "4681fb9650d252d78103dd853bfe8324f4c20073af4c3d4a616649c53fd856f2",
+      "bytes": 152320,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "23002"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23136",
+      "retrieved_at": "2026-10-29T09:12:18.422107+00:00",
+      "sha256": "c8686fda3cae58abb60311fec2d660af45b521ec922fa8cd029803d34945a6c3",
+      "bytes": 152285,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "23136"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23201",
+      "retrieved_at": "2026-10-29T09:12:18.587026+00:00",
+      "sha256": "87b80efb048467be68278d714b0c2eab7c744094bf884c3b0ecebaf60ba8e6bb",
+      "bytes": 153014,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "23201"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23265",
+      "retrieved_at": "2026-10-29T09:12:18.636465+00:00",
+      "sha256": "f87cd9839b9a10573e1eeb957e7fe0dee4e0decf7dbfdb7a7c590e65fe5ccfd2",
+      "bytes": 153090,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "23265"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23332",
+      "retrieved_at": "2026-10-29T09:12:18.676729+00:00",
+      "sha256": "371d9422473b59d0f2fda2a9f2cc48ca0a0863d2500d36eb475f829f405c7eba",
+      "bytes": 150736,
+      "http_last_modified": null,
+      "rows": 28,
+      "source_id": "23332"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23393",
+      "retrieved_at": "2026-10-29T09:12:19.025152+00:00",
+      "sha256": "2dcc604fcff9f1a428cbb16fa805a6ac2399acf61b7e173736285cac21b2db95",
+      "bytes": 153466,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "23393"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23651",
+      "retrieved_at": "2026-10-29T09:12:19.279656+00:00",
+      "sha256": "e765959a6020e2ec950a2e1a4d64be022bf6784ef9be5639d91264d855fc5671",
+      "bytes": 153075,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "23651"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23588",
+      "retrieved_at": "2026-10-29T09:12:19.776454+00:00",
+      "sha256": "2c4f47d13a5cfd471e702e5abe2cee0432bbc123f75b5b29298ad5024ce1099d",
+      "bytes": 152327,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "23588"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23521",
+      "retrieved_at": "2026-10-29T09:12:19.795420+00:00",
+      "sha256": "b05465fcb66c85d481e3554049c7244a922b13889ed1a42429b73764e2aea613",
+      "bytes": 153042,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "23521"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23720",
+      "retrieved_at": "2026-10-29T09:12:20.222145+00:00",
+      "sha256": "a9cb7d5f9f2e1eb87bd8aa324913f92f2bbb78efffb12636659f37a1091b2e90",
+      "bytes": 154169,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "23720"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23786",
+      "retrieved_at": "2026-10-29T09:12:20.642048+00:00",
+      "sha256": "c6892821b59e86827143bb217135319995d463b5d1aeda30fb57a6c591587941",
+      "bytes": 152648,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "23786"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23915",
+      "retrieved_at": "2026-10-29T09:12:20.864163+00:00",
+      "sha256": "b36e1c2b6e3a0260e4ee390728ebd1a13b32d9da9964732fdc53c7fb56619e5d",
+      "bytes": 152292,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "23915"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23853",
+      "retrieved_at": "2026-10-29T09:12:20.902171+00:00",
+      "sha256": "7828b5c4770f5e56e66884aba41532eeb9dea0287b8eb67dcb951f827af0034e",
+      "bytes": 153053,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "23853"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23457",
+      "retrieved_at": "2026-10-29T09:12:21.333097+00:00",
+      "sha256": "b67c3b0f6e28b97555a9a458f631c5c40700769eaa69cada25e62d5cb2c92521",
+      "bytes": 152368,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "23457"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=24046",
+      "retrieved_at": "2026-10-29T09:12:21.430068+00:00",
+      "sha256": "e95af993afe66f7207e5b25615f92c77492f606ef16df0cb1b56317d95c6074e",
+      "bytes": 153069,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "24046"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=23983",
+      "retrieved_at": "2026-10-29T09:12:21.621890+00:00",
+      "sha256": "1ae17e7055ff8ff76d8732e6f3a67b3e0def30220e576d72eeb4fd439e6a9d20",
+      "bytes": 153216,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "23983"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=24112",
+      "retrieved_at": "2026-10-29T09:12:22.081749+00:00",
+      "sha256": "e4b80f49802facd7ab0e14e71e7adb386f1dcdee512f094c4d8a6034b4be9892",
+      "bytes": 150765,
+      "http_last_modified": null,
+      "rows": 28,
+      "source_id": "24112"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=24179",
+      "retrieved_at": "2026-10-29T09:12:22.328358+00:00",
+      "sha256": "a602e1560ccdb2f9327f539dbe46f7ffe14c2adb22d7137d8ec472c40fbd10a0",
+      "bytes": 153195,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "24179"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=24244",
+      "retrieved_at": "2026-10-29T09:12:22.677742+00:00",
+      "sha256": "4556de6f0cf726f1c7e369e32da7dcd1c7d5fb5e39d66891c9dcf2d9a537ba6f",
+      "bytes": 152256,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "24244"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=24308",
+      "retrieved_at": "2026-10-29T09:12:22.735930+00:00",
+      "sha256": "a46d91aba3a969b6e424cde2492e9385781475727034da5c7cab4da24698a138",
+      "bytes": 152942,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "24308"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=24380",
+      "retrieved_at": "2026-10-29T09:12:23.000466+00:00",
+      "sha256": "fae24ca93acce6d8cbd4ed7af99cdc9119f1549d7cd6528a65368ebfac40a77f",
+      "bytes": 152335,
+      "http_last_modified": null,
+      "rows": 30,
+      "source_id": "24380"
+    },
+    {
+      "url": "https://www.rbi.org.in/Scripts/BS_ViewBulletin.aspx?Id=24451",
+      "retrieved_at": "2026-10-29T09:12:23.661264+00:00",
+      "sha256": "acb729bc3cb621655bc4ac91b20946a00679c77d2071a979c065e89f78cef635",
+      "bytes": 153105,
+      "http_last_modified": null,
+      "rows": 31,
+      "source_id": "24451"
+    }
+  ],
+  "failures": [],
+  "liquidity_definition": "Monthly arithmetic mean of RBI Bulletin Table 3 net injection (+) / absorption (-) daily operations, including the table's OMO components. A direction proxy, not the stock of surplus reserves or net LAF outstanding.",
+  "release_assumption": "Use observations at least two months older than the known-AMFI origin month.",
+  "vintage_limit": "Handbook historical values are latest available, not original release vintages."
+}

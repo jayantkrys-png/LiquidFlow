@@ -1,0 +1,927 @@
+{
+  "archive": "https://www.amfiindia.com/research-information/amfi-monthly",
+  "requested_start": "2018-04",
+  "requested_end": "2026-09",
+  "reports": [
+    {
+      "url": "https://portal.amfiindia.com/spages/amapr2018repo.xls",
+      "retrieved_at": "2026-10-29T09:07:53.630791+00:00",
+      "sha256": "d90e9115d6ce1ab9650778d90d6ffcb677a7bfa983a55562a2a49176be0dbd51",
+      "bytes": 102912,
+      "http_last_modified": "Thu, 24 May 2018 09:18:25 GMT",
+      "month": "2018-04",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammay2018repo.xls",
+      "retrieved_at": "2026-10-29T09:07:53.569832+00:00",
+      "sha256": "7ca6458b61b7c1423fabc7f84378b720b75734784e7f2d3bd02fa7357c9b45c0",
+      "bytes": 113664,
+      "http_last_modified": "Thu, 07 Jun 2018 11:07:17 GMT",
+      "month": "2018-05",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjun2018repo.xls",
+      "retrieved_at": "2026-10-29T09:07:53.427414+00:00",
+      "sha256": "5badc4e635296e5e343badf63b25098ecc885e8b83f0d61f79ba871d0a3bba38",
+      "bytes": 120320,
+      "http_last_modified": "Fri, 06 Jul 2018 12:33:11 GMT",
+      "month": "2018-06",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjul2018repo.xls",
+      "retrieved_at": "2026-10-29T09:07:53.398540+00:00",
+      "sha256": "de9c885bf888c665e74b81ebc4401df3f1e2c33a5fa204f66c7ed515e3aeba14",
+      "bytes": 106496,
+      "http_last_modified": "Tue, 07 Aug 2018 11:24:45 GMT",
+      "month": "2018-07",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amaug2018repo.xls",
+      "retrieved_at": "2026-10-29T09:07:53.604326+00:00",
+      "sha256": "ba94a2186aea53ed006503a5395628ab08e027d48e103f764965bea8a5499d4d",
+      "bytes": 116736,
+      "http_last_modified": "Fri, 07 Sep 2018 07:09:12 GMT",
+      "month": "2018-08",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amsep2018repo.xls",
+      "retrieved_at": "2026-10-29T09:07:54.902144+00:00",
+      "sha256": "b43158e5e02a820cd13d65cf30e0d2a9a17e1f78d3ca80d960e3f6054c119c9b",
+      "bytes": 118784,
+      "http_last_modified": "Thu, 11 Oct 2018 06:17:57 GMT",
+      "month": "2018-09",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amoct2018repo.xls",
+      "retrieved_at": "2026-10-29T09:07:54.864012+00:00",
+      "sha256": "e12638299d62a79f2dc13d2be6861b09942a3b92c65b964593bb4eb1259bebb1",
+      "bytes": 115712,
+      "http_last_modified": "Wed, 23 Jan 2019 06:13:28 GMT",
+      "month": "2018-10",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amnov2018repo.xls",
+      "retrieved_at": "2026-10-29T09:07:55.001463+00:00",
+      "sha256": "25e2a2118cb8dab25e5fa14225d2f493c060cef2d0bd813695aa8f0c1ec1f569",
+      "bytes": 121856,
+      "http_last_modified": "Fri, 07 Dec 2018 07:49:14 GMT",
+      "month": "2018-11",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amdec2018repo.xls",
+      "retrieved_at": "2026-10-29T09:07:55.121921+00:00",
+      "sha256": "9fd5c4fc841c441eaef380de3f2822d971f8a314effa548d5c2e0bc81dcf6a47",
+      "bytes": 122880,
+      "http_last_modified": "Wed, 23 Jan 2019 08:58:01 GMT",
+      "month": "2018-12",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjan2019repo.xls",
+      "retrieved_at": "2026-10-29T09:07:55.119786+00:00",
+      "sha256": "00d2e39169d0b3cab3131c1796426343e849fe9f2d797c03f9ad9d8f9d05d8e4",
+      "bytes": 118272,
+      "http_last_modified": "Fri, 08 Feb 2019 06:13:09 GMT",
+      "month": "2019-01",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amfeb2019repo.xls",
+      "retrieved_at": "2026-10-29T09:07:56.288658+00:00",
+      "sha256": "c116b759633a9157b241baa5f00c3b8d8ddb26adb71003d1406c4af2ccb876c6",
+      "bytes": 122880,
+      "http_last_modified": "Fri, 08 Mar 2019 07:30:42 GMT",
+      "month": "2019-02",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammar2019repo.xls",
+      "retrieved_at": "2026-10-29T09:07:56.314174+00:00",
+      "sha256": "46158df7da435a7d9b75081df49a37b44b85fb8b25c837cc6a5639de158a84bc",
+      "bytes": 101888,
+      "http_last_modified": "Thu, 11 Apr 2019 06:49:53 GMT",
+      "month": "2019-03",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amapr2019repo.xls",
+      "retrieved_at": "2026-10-29T09:07:56.022541+00:00",
+      "sha256": "2ad87cd3ee0654eb1bba0b1d8f9707559c322c2b2c5100b9e5ffc57fdbdfb141",
+      "bytes": 37837,
+      "http_last_modified": "Mon, 10 Jun 2019 09:51:59 GMT",
+      "month": "2019-04",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammay2019repo.xls",
+      "retrieved_at": "2026-10-29T09:07:56.128598+00:00",
+      "sha256": "e888facbdcfd53dd5aefaab8b90c250bfbbbbf7dedee516f88df4624508a2a09",
+      "bytes": 37976,
+      "http_last_modified": "Wed, 12 Jun 2019 07:15:17 GMT",
+      "month": "2019-05",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjun2019repo.xls",
+      "retrieved_at": "2026-10-29T09:07:56.202727+00:00",
+      "sha256": "fc01e1521a91a999c599d3d42f2c66eb6c81e9f09b39703223305fe96176d7df",
+      "bytes": 37756,
+      "http_last_modified": "Fri, 12 Jul 2019 07:21:57 GMT",
+      "month": "2019-06",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjul2019repo.xls",
+      "retrieved_at": "2026-10-29T09:07:57.049157+00:00",
+      "sha256": "7cd179c4333225bb75547dad6686b7d3d73ac2ad94f477d75acc2a7acc841b3a",
+      "bytes": 40562,
+      "http_last_modified": "Thu, 08 Aug 2019 10:14:28 GMT",
+      "month": "2019-07",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amaug2019repo.xls",
+      "retrieved_at": "2026-10-29T09:07:57.151607+00:00",
+      "sha256": "658651b86393efb6e0ea5485c88bf03f6b6abc229e4eaa6620d4e74d3d64a3a1",
+      "bytes": 37986,
+      "http_last_modified": "Mon, 09 Sep 2019 09:27:40 GMT",
+      "month": "2019-08",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amsep2019repo.xls",
+      "retrieved_at": "2026-10-29T09:07:57.272781+00:00",
+      "sha256": "0a45cab8fd3da01fb1cfc5883eae300f8a6d42034295c77e2d8c5cb03f164717",
+      "bytes": 38156,
+      "http_last_modified": "Wed, 09 Oct 2019 08:33:57 GMT",
+      "month": "2019-09",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amoct2019repo.xls",
+      "retrieved_at": "2026-10-29T09:07:57.362841+00:00",
+      "sha256": "0bc435e99c83ec667185aade67df3f7f95aee94a80640739abd8f138672e3c45",
+      "bytes": 41730,
+      "http_last_modified": "Fri, 08 Nov 2019 05:50:39 GMT",
+      "month": "2019-10",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amnov2019repo.xls",
+      "retrieved_at": "2026-10-29T09:07:57.389469+00:00",
+      "sha256": "099fe3ad3880d019c3690608936bc3a2090581fa2b23d9543e586bee1dfb0c7b",
+      "bytes": 37040,
+      "http_last_modified": "Tue, 10 Dec 2019 04:49:40 GMT",
+      "month": "2019-11",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amdec2019repo.xls",
+      "retrieved_at": "2026-10-29T09:07:58.093209+00:00",
+      "sha256": "4eb0ac167f64bbe07f4f2f6ff9a3cdfcb79e431f36a6b1a06a2ee87c4639d8fa",
+      "bytes": 42052,
+      "http_last_modified": "Wed, 08 Jan 2020 07:56:19 GMT",
+      "month": "2019-12",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjan2020repo.xls",
+      "retrieved_at": "2026-10-29T09:07:58.205932+00:00",
+      "sha256": "2d86d519aef74fe24447d7a37a721311a6acbf3a5e19aeaefe25233b4f8a339f",
+      "bytes": 40990,
+      "http_last_modified": "Tue, 18 Feb 2020 08:15:06 GMT",
+      "month": "2020-01",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amfeb2020repo.xls",
+      "retrieved_at": "2026-10-29T09:07:58.296196+00:00",
+      "sha256": "507eb974a616e73dc36a421ac8181a39b630e4c4c76359db7c309f8fcdda791c",
+      "bytes": 41301,
+      "http_last_modified": "Wed, 11 Mar 2020 05:47:58 GMT",
+      "month": "2020-02",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammar2020repo.xls",
+      "retrieved_at": "2026-10-29T09:07:58.373642+00:00",
+      "sha256": "fce0125f9e4882ef7757e53b36c7c25296f708ba9a2682d309bac50006a62d97",
+      "bytes": 41700,
+      "http_last_modified": "Thu, 09 Apr 2020 08:00:37 GMT",
+      "month": "2020-03",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amapr2020repo.xls",
+      "retrieved_at": "2026-10-29T09:07:58.454257+00:00",
+      "sha256": "c0b7875b455e7ef3708511312af2156aca8e6c904fb73baebacbbece88dac3d9",
+      "bytes": 40926,
+      "http_last_modified": "Fri, 08 May 2020 07:44:26 GMT",
+      "month": "2020-04",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammay2020repo.xls",
+      "retrieved_at": "2026-10-29T09:07:59.128738+00:00",
+      "sha256": "a77562e2068fd7e7121614bc929e9f7db5cc8209127b12c3882297e981ab0bdf",
+      "bytes": 40062,
+      "http_last_modified": "Mon, 08 Jun 2020 08:08:53 GMT",
+      "month": "2020-05",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjun2020repo.xls",
+      "retrieved_at": "2026-10-29T09:07:59.226833+00:00",
+      "sha256": "0ad53c21b56cf0930c49e0da8ef3f9575354ae698199b04ae6d9d68baa2a1413",
+      "bytes": 37793,
+      "http_last_modified": "Wed, 08 Jul 2020 08:47:21 GMT",
+      "month": "2020-06",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjul2020repo.xls",
+      "retrieved_at": "2026-10-29T09:07:59.360781+00:00",
+      "sha256": "e987c57ad072755f24d2bbe205e7fec277cce5fd96fd400ed210faece1abad97",
+      "bytes": 37866,
+      "http_last_modified": "Mon, 10 Aug 2020 05:48:53 GMT",
+      "month": "2020-07",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amaug2020repo.xls",
+      "retrieved_at": "2026-10-29T09:07:59.386936+00:00",
+      "sha256": "2ad6dcdea0989bb90d76873f4ce6584805fe8446aee57bf24180ffda1d643767",
+      "bytes": 37789,
+      "http_last_modified": "Wed, 09 Sep 2020 05:58:47 GMT",
+      "month": "2020-08",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amsep2020repo.xls",
+      "retrieved_at": "2026-10-29T09:07:59.521884+00:00",
+      "sha256": "76ad20a2143920ee25e7bd3a789bc45fa99e148b5015d4f8476e831559f772cb",
+      "bytes": 38344,
+      "http_last_modified": "Thu, 08 Oct 2020 07:34:08 GMT",
+      "month": "2020-09",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amoct2020repo.xls",
+      "retrieved_at": "2026-10-29T09:08:00.186275+00:00",
+      "sha256": "a58715a61792d9cc9ebfc981ba331e09b946503f01140488569b51f17005f5c5",
+      "bytes": 38723,
+      "http_last_modified": "Mon, 09 Nov 2020 08:41:33 GMT",
+      "month": "2020-10",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amnov2020repo.xls",
+      "retrieved_at": "2026-10-29T09:08:00.279490+00:00",
+      "sha256": "0162091a9f8a98e1f4943dfc0ca399c9f12d8d03224a6ac3743c91f8c65ec088",
+      "bytes": 37277,
+      "http_last_modified": "Tue, 08 Dec 2020 05:44:32 GMT",
+      "month": "2020-11",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amdec2020repo.xls",
+      "retrieved_at": "2026-10-29T09:08:00.369875+00:00",
+      "sha256": "b82b988dd52dfae3b32b512d147e5835b6f284e79a33767c951fa8167f56e081",
+      "bytes": 38248,
+      "http_last_modified": "Fri, 08 Jan 2021 07:58:10 GMT",
+      "month": "2020-12",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjan2021repo.xls",
+      "retrieved_at": "2026-10-29T09:08:03.420520+00:00",
+      "sha256": "4fa6ef6846405c4ca035444e14164cbbae3499c6fb01584cdbf92c28ea0228ef",
+      "bytes": 38567,
+      "http_last_modified": "Tue, 09 Feb 2021 07:33:12 GMT",
+      "month": "2021-01",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amfeb2021repo.xls",
+      "retrieved_at": "2026-10-29T09:08:00.544361+00:00",
+      "sha256": "a24df714c82ef5ce8584ab12cc915f37baf05df03791694a7ddd88cea5b30fd4",
+      "bytes": 40043,
+      "http_last_modified": "Tue, 09 Mar 2021 11:36:44 GMT",
+      "month": "2021-02",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammar2021repo.xls",
+      "retrieved_at": "2026-10-29T09:08:01.242091+00:00",
+      "sha256": "3b5478b8f00e9c24c187879d1f7d63a032901659b62c6a983a69e7f6f9891fcb",
+      "bytes": 43500,
+      "http_last_modified": "Thu, 08 Apr 2021 08:37:10 GMT",
+      "month": "2021-03",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amapr2021repo.xls",
+      "retrieved_at": "2026-10-29T09:08:01.301262+00:00",
+      "sha256": "c788eafe9a9109b63d4b437a62c523bfc27ddbb3f18e2498cce03299b4255aea",
+      "bytes": 39552,
+      "http_last_modified": "Tue, 11 May 2021 05:59:55 GMT",
+      "month": "2021-04",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammay2021repo.xls",
+      "retrieved_at": "2026-10-29T09:08:01.426540+00:00",
+      "sha256": "f623375c89f25ad4280d77aaf9dbb94197f6cdf25647c98d9ff45c48bf840228",
+      "bytes": 40166,
+      "http_last_modified": "Wed, 09 Jun 2021 06:24:39 GMT",
+      "month": "2021-05",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjun2021repo.xls",
+      "retrieved_at": "2026-10-29T09:08:01.601914+00:00",
+      "sha256": "1c82daabb565d3f31feccf440dac1a6c8cc2556e7b96bc58494b353abec74604",
+      "bytes": 39012,
+      "http_last_modified": "Thu, 08 Jul 2021 07:51:15 GMT",
+      "month": "2021-06",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjul2021repo.xls",
+      "retrieved_at": "2026-10-29T09:08:02.261991+00:00",
+      "sha256": "bfcbac44fc36b17d82ca48cf2713e072e36c70622576ba73f10e1ef4779b5252",
+      "bytes": 39724,
+      "http_last_modified": "Mon, 09 Aug 2021 07:56:58 GMT",
+      "month": "2021-07",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amaug2021repo.xls",
+      "retrieved_at": "2026-10-29T09:08:02.337938+00:00",
+      "sha256": "4c4a2acb40df74d7039c86b952774fc08ed97b91ca636ae6c0d7da43380fd3c8",
+      "bytes": 40744,
+      "http_last_modified": "Wed, 08 Sep 2021 07:51:55 GMT",
+      "month": "2021-08",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amsep2021repo.xls",
+      "retrieved_at": "2026-10-29T09:08:02.483994+00:00",
+      "sha256": "9b89016b1b0afe848834f3a296f1f71fb6ed10a3633e58f15ade3032c6cca109",
+      "bytes": 39595,
+      "http_last_modified": "Fri, 08 Oct 2021 09:02:14 GMT",
+      "month": "2021-09",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amoct2021repo.xls",
+      "retrieved_at": "2026-10-29T09:08:02.617300+00:00",
+      "sha256": "9fdd11b69ce64ea3360d9e61907c0a7e8b8509689d19b41400ab0b198ba6690f",
+      "bytes": 38375,
+      "http_last_modified": "Wed, 10 Nov 2021 11:15:44 GMT",
+      "month": "2021-10",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amnov2021repo.xls",
+      "retrieved_at": "2026-10-29T09:08:03.344638+00:00",
+      "sha256": "56e142a9008fde774c0857bf225503943c0f0fbd592b48c3ca0cdb33fc81f23e",
+      "bytes": 39820,
+      "http_last_modified": "Thu, 09 Dec 2021 11:28:54 GMT",
+      "month": "2021-11",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amdec2021reporevised.xls",
+      "retrieved_at": "2026-10-29T09:08:03.404736+00:00",
+      "sha256": "d23ea1addde7f1799963274cd26a9c9bdd37cbe83df89647fadb432a2279bc37",
+      "bytes": 40389,
+      "http_last_modified": "Wed, 19 Jan 2022 12:57:40 GMT",
+      "month": "2021-12",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjan2022reporevised.xls",
+      "retrieved_at": "2026-10-29T09:08:03.507362+00:00",
+      "sha256": "74c04b54547a0a61b733b35f2a3090d7abfb072affb1ae5965df62a916303cff",
+      "bytes": 39239,
+      "http_last_modified": "Wed, 09 Feb 2022 11:59:55 GMT",
+      "month": "2022-01",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amfeb2022repo.xls",
+      "retrieved_at": "2026-10-29T09:08:03.658362+00:00",
+      "sha256": "3d3f10f744a1833834334276e2fdbfd96eba4e30ad335658d64953f44c6288c8",
+      "bytes": 39779,
+      "http_last_modified": "Wed, 09 Mar 2022 06:03:27 GMT",
+      "month": "2022-02",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammar2022repo.xls",
+      "retrieved_at": "2026-10-29T09:08:04.362998+00:00",
+      "sha256": "a432e16a37a97a2e1e4a8217e6f49d587b96100be36e98cf4b0c782b31012326",
+      "bytes": 40109,
+      "http_last_modified": "Fri, 08 Apr 2022 08:16:28 GMT",
+      "month": "2022-03",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amapr2022repo.xls",
+      "retrieved_at": "2026-10-29T09:08:04.427303+00:00",
+      "sha256": "f57f69b8eae3b7804c8fd8cc876b20374d6ba01129829b1dcebd64012c4bef12",
+      "bytes": 41366,
+      "http_last_modified": "Tue, 10 May 2022 09:08:10 GMT",
+      "month": "2022-04",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammay2022repo.xls",
+      "retrieved_at": "2026-10-29T09:08:04.493031+00:00",
+      "sha256": "4afc63b97147911c499d5660c543fe5a1a0ada60f9779d9355010373388df87c",
+      "bytes": 37988,
+      "http_last_modified": "Thu, 09 Jun 2022 06:29:31 GMT",
+      "month": "2022-05",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjun2022repo.xls",
+      "retrieved_at": "2026-10-29T09:08:04.566214+00:00",
+      "sha256": "d7380f3d9e594d51417955fcbeb138626ffce36357b8671594f5122c0df24c8e",
+      "bytes": 41258,
+      "http_last_modified": "Fri, 08 Jul 2022 05:23:44 GMT",
+      "month": "2022-06",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjul2022repo.xls",
+      "retrieved_at": "2026-10-29T09:08:04.736439+00:00",
+      "sha256": "6455972680d2eae419df011b645143b00039e4d7a3ded975a131ff14e6fa1654",
+      "bytes": 40046,
+      "http_last_modified": "Mon, 08 Aug 2022 09:18:03 GMT",
+      "month": "2022-07",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amaug2022repo.xls",
+      "retrieved_at": "2026-10-29T09:08:05.390504+00:00",
+      "sha256": "e87ca9dab1c38866d64cd8bdcbdc114d511f27b524f0672744420770da2d13cd",
+      "bytes": 42355,
+      "http_last_modified": "Fri, 09 Sep 2022 06:29:09 GMT",
+      "month": "2022-08",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amsep2022repo.xls",
+      "retrieved_at": "2026-10-29T09:08:05.506840+00:00",
+      "sha256": "48dc3a01a8b57b08e8c91fe92a13c42a1630ef07bf4858055a7dcaf3194d4eb0",
+      "bytes": 44686,
+      "http_last_modified": "Mon, 10 Oct 2022 08:25:42 GMT",
+      "month": "2022-09",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amoct2022repo.xls",
+      "retrieved_at": "2026-10-29T09:08:05.549459+00:00",
+      "sha256": "96f18a60310af10bbc5c74fe71991b07a9ef0b2042264c196d04ec94c3a2e13f",
+      "bytes": 44614,
+      "http_last_modified": "Thu, 10 Nov 2022 10:22:44 GMT",
+      "month": "2022-10",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amnov2022repo.xls",
+      "retrieved_at": "2026-10-29T09:08:05.582773+00:00",
+      "sha256": "939f41ca3aa2daf6ae0a8452b69fd4858bf532463a3bd109f1a392836033320c",
+      "bytes": 44277,
+      "http_last_modified": "Fri, 09 Dec 2022 08:24:48 GMT",
+      "month": "2022-11",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amdec2022repo.xls",
+      "retrieved_at": "2026-10-29T09:08:05.749699+00:00",
+      "sha256": "c41049a7c2a6cb61f393d7005aa24f8ec27461f1547409b0cf56603e2a587f47",
+      "bytes": 45095,
+      "http_last_modified": "Tue, 10 Jan 2023 05:53:24 GMT",
+      "month": "2022-12",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjan2023repo.xls",
+      "retrieved_at": "2026-10-29T09:08:06.401192+00:00",
+      "sha256": "b9faae46e8d6882f3c65924ff2cebd905bdc672031c827a7d56ca4e441605f5b",
+      "bytes": 44144,
+      "http_last_modified": "Thu, 09 Feb 2023 06:01:53 GMT",
+      "month": "2023-01",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amfeb2023repo.xls",
+      "retrieved_at": "2026-10-29T09:08:06.577709+00:00",
+      "sha256": "563d4a82fcbed6a76be5902578576f299d953a69b568144196a61d57a1781fdf",
+      "bytes": 44605,
+      "http_last_modified": "Fri, 10 Mar 2023 07:58:18 GMT",
+      "month": "2023-02",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammar2023repo.xls",
+      "retrieved_at": "2026-10-29T09:08:06.605974+00:00",
+      "sha256": "bc8f8d9aba52d1dfeb6ddc135d02d3a9bebd232bc3cab64fc1b70d632c68eb9a",
+      "bytes": 44717,
+      "http_last_modified": "Thu, 13 Apr 2023 14:49:26 GMT",
+      "month": "2023-03",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amapr2023repo.xls",
+      "retrieved_at": "2026-10-29T09:08:06.606985+00:00",
+      "sha256": "607a576bd9243e6fce3834d28944ecc882d4c19fa9127765ccea16151b894e2d",
+      "bytes": 43971,
+      "http_last_modified": "Thu, 11 May 2023 07:55:20 GMT",
+      "month": "2023-04",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammay2023repo.xls",
+      "retrieved_at": "2026-10-29T09:08:06.817197+00:00",
+      "sha256": "5e972f6f92fdad761230ea7b77559227b9231504a630afcc4bef67ff151e0b63",
+      "bytes": 43700,
+      "http_last_modified": "Fri, 09 Jun 2023 07:00:59 GMT",
+      "month": "2023-05",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjun2023repo.xls",
+      "retrieved_at": "2026-10-29T09:08:07.465485+00:00",
+      "sha256": "7010028cd2d533f8f66a1eb64bd63239ec1c7fb64ab0dc68f0742d3731dff659",
+      "bytes": 44541,
+      "http_last_modified": "Mon, 10 Jul 2023 06:32:26 GMT",
+      "month": "2023-06",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjul2023repo.xls",
+      "retrieved_at": "2026-10-29T09:08:07.601481+00:00",
+      "sha256": "40cfa0980810d470e5df8717dbc3b21dd04c6b661e1b9e80dce156924ec34268",
+      "bytes": 44242,
+      "http_last_modified": "Wed, 09 Aug 2023 08:02:23 GMT",
+      "month": "2023-07",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amaug2023repo.xls",
+      "retrieved_at": "2026-10-29T09:08:07.694317+00:00",
+      "sha256": "f52a8ba9faa3e8f5c38a8dfb997723121d8705c59a87c9de29f9869d9f9de313",
+      "bytes": 44611,
+      "http_last_modified": "Mon, 11 Sep 2023 06:01:05 GMT",
+      "month": "2023-08",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amsep2023repo.xls",
+      "retrieved_at": "2026-10-29T09:08:07.630155+00:00",
+      "sha256": "8eced5bf30c01e7b4bcaebadd11b439f7e0515d23858480c1fc2f947e928fd02",
+      "bytes": 44516,
+      "http_last_modified": "Wed, 11 Oct 2023 06:01:31 GMT",
+      "month": "2023-09",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amoct2023repo.xls",
+      "retrieved_at": "2026-10-29T09:08:07.851092+00:00",
+      "sha256": "55d812cfe0be2c2d1a87f4caa55b76f3b6d6b489fa0f1538eb6987d5ded3fb02",
+      "bytes": 44814,
+      "http_last_modified": "Thu, 09 Nov 2023 08:01:28 GMT",
+      "month": "2023-10",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amnov2023repo.xls",
+      "retrieved_at": "2026-10-29T09:08:08.524608+00:00",
+      "sha256": "b6252edc83572eb884dc4f9052d9684ba2182364524e4da3e1f5098ccab41a1b",
+      "bytes": 44594,
+      "http_last_modified": "Fri, 08 Dec 2023 08:31:08 GMT",
+      "month": "2023-11",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amdec2023repo.xls",
+      "retrieved_at": "2026-10-29T09:08:08.681020+00:00",
+      "sha256": "780beba0ab5eca5f955711f247b3dcc71300a75b8717b8f77bd9a17fc2d785a2",
+      "bytes": 45114,
+      "http_last_modified": "Mon, 08 Jan 2024 06:41:27 GMT",
+      "month": "2023-12",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjan2024repo.xls",
+      "retrieved_at": "2026-10-29T09:08:08.665528+00:00",
+      "sha256": "0bebdd5615ce5850b293d556b8c6c082e36aecb169e51b82f1b853fb49d89d6a",
+      "bytes": 45062,
+      "http_last_modified": "Thu, 08 Feb 2024 05:52:37 GMT",
+      "month": "2024-01",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amfeb2024repo.xls",
+      "retrieved_at": "2026-10-29T09:08:08.731552+00:00",
+      "sha256": "886876b87fde924c40e860f5b7c4d7e5f5bb423dbc6985c6f42a4912bf31488f",
+      "bytes": 42353,
+      "http_last_modified": "Fri, 08 Mar 2024 06:01:13 GMT",
+      "month": "2024-02",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammar2024repo.xls",
+      "retrieved_at": "2026-10-29T09:08:08.861402+00:00",
+      "sha256": "6dc53fd2bf89be82700810b2d994b72c19d0fb7584b1db2e5c77014ab7d4bba5",
+      "bytes": 45169,
+      "http_last_modified": "Wed, 10 Apr 2024 07:58:00 GMT",
+      "month": "2024-03",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amapr2024repo.xls",
+      "retrieved_at": "2026-10-29T09:08:09.591414+00:00",
+      "sha256": "1081268e755a6f091a9c594ca70a73fae70d15f40ef52c35bbbc9e81d3c5f11c",
+      "bytes": 44049,
+      "http_last_modified": "Thu, 09 May 2024 11:39:06 GMT",
+      "month": "2024-04",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammay2024repo.xls",
+      "retrieved_at": "2026-10-29T09:08:09.731645+00:00",
+      "sha256": "dcf313205fc436e61dcc6afe196cf3f2096a81680c765457f236a69114d0303a",
+      "bytes": 43855,
+      "http_last_modified": "Mon, 10 Jun 2024 06:03:10 GMT",
+      "month": "2024-05",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjun2024repo.xls",
+      "retrieved_at": "2026-10-29T09:08:09.761035+00:00",
+      "sha256": "5a71aa448e089dc69d9910587f19b82f2b9d8f3e7744cab7720d57638fe1f536",
+      "bytes": 43867,
+      "http_last_modified": "Tue, 09 Jul 2024 07:59:15 GMT",
+      "month": "2024-06",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjul2024repo.xls",
+      "retrieved_at": "2026-10-29T09:08:09.802100+00:00",
+      "sha256": "482b8720a34fe3433803d28ce3e649e5b3288b2b518f0fa334836930fe24d90b",
+      "bytes": 43322,
+      "http_last_modified": "Fri, 09 Aug 2024 06:03:19 GMT",
+      "month": "2024-07",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amaug2024repo.xls",
+      "retrieved_at": "2026-10-29T09:08:09.916149+00:00",
+      "sha256": "a512515a3fadaef0cfd55aa9c51fee9afc667e55da22e5c550103a10d48db51a",
+      "bytes": 44513,
+      "http_last_modified": "Tue, 10 Sep 2024 08:05:22 GMT",
+      "month": "2024-08",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amsep2024repo.xls",
+      "retrieved_at": "2026-10-29T09:08:10.650792+00:00",
+      "sha256": "46c6a1fdebe4aa81dcf84e6f6b9f5259f15fd9f7cf9778ea14e06ba209dc26d0",
+      "bytes": 44831,
+      "http_last_modified": "Thu, 10 Oct 2024 08:57:53 GMT",
+      "month": "2024-09",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amoct2024repo.xls",
+      "retrieved_at": "2026-10-29T09:08:10.782543+00:00",
+      "sha256": "bbe62f0592cd7e2c32e090d653ecda66a2ae619c9dbea602d0ef5d939cbb4fc8",
+      "bytes": 43966,
+      "http_last_modified": "Mon, 11 Nov 2024 08:35:04 GMT",
+      "month": "2024-10",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amnov2024repo.xls",
+      "retrieved_at": "2026-10-29T09:08:10.837231+00:00",
+      "sha256": "8252b0ea4b84e2c2b944ecf5f02f8f902756e181ffd4bc6fd72b86963d5e504d",
+      "bytes": 44681,
+      "http_last_modified": "Tue, 10 Dec 2024 06:00:50 GMT",
+      "month": "2024-11",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amdec2024repo.xls",
+      "retrieved_at": "2026-10-29T09:08:10.887249+00:00",
+      "sha256": "c22415512d907d1185f54d184ab3530cd3bf6a02ec45fb424b149f76dbae1f8c",
+      "bytes": 45101,
+      "http_last_modified": "Thu, 09 Jan 2025 06:53:54 GMT",
+      "month": "2024-12",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjan2025repo.xls",
+      "retrieved_at": "2026-10-29T09:08:10.983428+00:00",
+      "sha256": "e725b6cb6f61a94228ff2b6330f6037fad4332b42fb784eed9fd187d883a3572",
+      "bytes": 48003,
+      "http_last_modified": "Wed, 12 Feb 2025 05:58:40 GMT",
+      "month": "2025-01",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amfeb2025repo.xls",
+      "retrieved_at": "2026-10-29T09:08:11.731296+00:00",
+      "sha256": "535cc2410869d4aa8b648fda56fb635f065de14f4650d730f70628d2a18ab77f",
+      "bytes": 45006,
+      "http_last_modified": "Wed, 12 Mar 2025 06:31:19 GMT",
+      "month": "2025-02",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammar2025repo.xls",
+      "retrieved_at": "2026-10-29T09:08:11.858893+00:00",
+      "sha256": "049414a9e1c7a54e1c3769cab3fb2c22f68f3c0efc8e36cbfc0b3cf90327036d",
+      "bytes": 45561,
+      "http_last_modified": "Fri, 11 Apr 2025 06:03:53 GMT",
+      "month": "2025-03",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amapr2025repo.xls",
+      "retrieved_at": "2026-10-29T09:08:11.874535+00:00",
+      "sha256": "f0c8183a20bc2f047fa73d26877c2ab0d4d40569d679854c1f97eecf68321bf2",
+      "bytes": 44528,
+      "http_last_modified": "Fri, 09 May 2025 06:00:11 GMT",
+      "month": "2025-04",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammay2025repo.xls",
+      "retrieved_at": "2026-10-29T09:08:11.945661+00:00",
+      "sha256": "a155113e6c54fc2b8048568c17ecde32460758a765d5162f3ee8851a342a1bf6",
+      "bytes": 44810,
+      "http_last_modified": "Tue, 10 Jun 2025 06:00:59 GMT",
+      "month": "2025-05",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjun2025repo.xls",
+      "retrieved_at": "2026-10-29T09:08:12.041036+00:00",
+      "sha256": "4ded1c5d6c173f1252c1897e6ddc98e6cabb080592ef541c452ec4a30d82e6b2",
+      "bytes": 44660,
+      "http_last_modified": "Wed, 09 Jul 2025 05:00:11 GMT",
+      "month": "2025-06",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjul2025repo.xls",
+      "retrieved_at": "2026-10-29T09:08:13.218402+00:00",
+      "sha256": "70902777bdd5d77d60fb7e4898f376a809f3000d761e7eb6e7afe8f9e3e81959",
+      "bytes": 101376,
+      "http_last_modified": "Fri, 12 Sep 2025 12:07:23 GMT",
+      "month": "2025-07",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amaug2025repo.xls",
+      "retrieved_at": "2026-10-29T09:08:13.274069+00:00",
+      "sha256": "381cafbb797e3e038ee4693f54648cb36075cf44cbafd8ee0054208ebb2ea2fb",
+      "bytes": 117248,
+      "http_last_modified": "Fri, 12 Sep 2025 12:07:24 GMT",
+      "month": "2025-08",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amsep2025repo.xls",
+      "retrieved_at": "2026-10-29T09:08:13.101580+00:00",
+      "sha256": "9a9102d47f13da887a14f33f961b2f5658638f1c16d46aef0537df28c62aeffd",
+      "bytes": 100352,
+      "http_last_modified": "Fri, 10 Oct 2025 09:24:47 GMT",
+      "month": "2025-09",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amoct2025repo.xls",
+      "retrieved_at": "2026-10-29T09:08:13.450237+00:00",
+      "sha256": "3f3b33767ac5d30a213788c9250f7c643a449b9287559dad8f82a46fa01337f3",
+      "bytes": 115712,
+      "http_last_modified": "Tue, 11 Nov 2025 06:07:04 GMT",
+      "month": "2025-10",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amnov2025repo.xls",
+      "retrieved_at": "2026-10-29T09:08:13.298798+00:00",
+      "sha256": "f0c26f74d9e85ae6654fee574ddcc5c0288de5fdd3ea4006a80f3716d2f61222",
+      "bytes": 113152,
+      "http_last_modified": "Thu, 11 Dec 2025 05:15:16 GMT",
+      "month": "2025-11",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amdec2025repo.xls",
+      "retrieved_at": "2026-10-29T09:08:14.381714+00:00",
+      "sha256": "df19c76894573821b8fdcbe5a6c6fa1a2760a271b25e9139313fd25bb509858c",
+      "bytes": 101376,
+      "http_last_modified": "Mon, 12 Jan 2026 04:26:49 GMT",
+      "month": "2025-12",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjan2026repo.xls",
+      "retrieved_at": "2026-10-29T09:08:14.645656+00:00",
+      "sha256": "0f73d3d998b4582b8ab0f280e226ad56ac0d08a1a2c2ad85e8009084fc2dcf43",
+      "bytes": 122880,
+      "http_last_modified": "Tue, 10 Feb 2026 05:13:14 GMT",
+      "month": "2026-01",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amfeb2026repo.xls",
+      "retrieved_at": "2026-10-29T09:08:14.609340+00:00",
+      "sha256": "5bb8409e631ccaa28fdee04ccd744530a31a697bae1fec88ed4e827acfe68548",
+      "bytes": 120320,
+      "http_last_modified": "Tue, 10 Mar 2026 06:45:31 GMT",
+      "month": "2026-02",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammar2026repo.xls",
+      "retrieved_at": "2026-10-29T09:08:14.764371+00:00",
+      "sha256": "bd29dbafc209b7f699c4544ec1f776b7674f9749fb800ae0d2178c8115cf948b",
+      "bytes": 102400,
+      "http_last_modified": "Fri, 10 Apr 2026 06:12:31 GMT",
+      "month": "2026-03",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amapr2026repo.xls",
+      "retrieved_at": "2026-10-29T09:08:14.839803+00:00",
+      "sha256": "d7562a27597ff486063b6639cc1a342133797d602e2d29bb4d5202e0b64e96cb",
+      "bytes": 112640,
+      "http_last_modified": "Mon, 11 May 2026 09:41:52 GMT",
+      "month": "2026-04",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/ammay2026repo.xls",
+      "retrieved_at": "2026-10-29T09:08:15.836845+00:00",
+      "sha256": "6ec4934284b5b0876236340a98c524c29d1d93f53e9a1a5d4746bad297a717d2",
+      "bytes": 101888,
+      "http_last_modified": "Wed, 10 Jun 2026 04:29:36 GMT",
+      "month": "2026-05",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjun2026repo.xls",
+      "retrieved_at": "2026-10-29T09:08:15.734448+00:00",
+      "sha256": "f5d21f9dd6a1b6a9644758b56971479172b9cec45ec1b406114e8f791ab589d3",
+      "bytes": 67072,
+      "http_last_modified": "Fri, 10 Jul 2026 10:53:06 GMT",
+      "month": "2026-06",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amjul2026repo.xls",
+      "retrieved_at": "2026-10-29T09:08:15.880547+00:00",
+      "sha256": "8d644b225ff916c942e968c2af83bae9c98a506dd6ae8e3c3521df3b735cdb1e",
+      "bytes": 97792,
+      "http_last_modified": "Tue, 11 Aug 2026 06:48:10 GMT",
+      "month": "2026-07",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amaug2026repo.xls",
+      "retrieved_at": "2026-10-29T09:08:16.205358+00:00",
+      "sha256": "70f3aa61dadcd6867b296aeabb7ff545c052a9f23ff705aa656c651c43f8a787",
+      "bytes": 108544,
+      "http_last_modified": "Mon, 05 Oct 2026 06:59:36 GMT",
+      "month": "2026-08",
+      "format": "xls"
+    },
+    {
+      "url": "https://portal.amfiindia.com/spages/amsep2026repo.xls",
+      "retrieved_at": "2026-10-29T09:08:16.063464+00:00",
+      "sha256": "b1daaaf1a8c71260c10e9056272bebf7f3367559ac66d5ad5d6d0ec8a9f09967",
+      "bytes": 110080,
+      "http_last_modified": "Mon, 12 Oct 2026 06:10:10 GMT",
+      "month": "2026-09",
+      "format": "xls"
+    }
+  ],
+  "failures": [],
+  "publication_note": "Download and HTTP modification times are not the dates AMFI first published each report."
+}
