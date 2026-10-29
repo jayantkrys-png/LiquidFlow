@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "independent_mae_crore": 27310.01560100264,
+  "independent_coverage95_pct": 85.41666666666666,
+  "independent_policy_cost_crore": 111863.35895895347,
+  "checks": [
+    "24 target release months per category and primary horizon",
+    "independent MAE and 95% coverage arithmetic",
+    "training and calibration target cutoffs",
+    "complete latest-origin live forecast grid and quantile order",
+    "one-step non-overlapping policy costs",
+    "source flow accounting identity and monthly counts"
+  ]
+}

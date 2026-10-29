@@ -1,0 +1,5 @@
+group_removed,development_error_pct_origin_aum,change_vs_full_error_pct_origin_aum,interpretation
+calendar,14.705154004581681,1.13572839100169,positive means the group helped the fixed Ridge specification; negative means its removal improved it
+rates,14.018601158723762,0.44917554514377045,positive means the group helped the fixed Ridge specification; negative means its removal improved it
+equity,13.522330730998537,-0.047094882581454556,positive means the group helped the fixed Ridge specification; negative means its removal improved it
+liquidity,13.488460504662076,-0.08096510891791553,positive means the group helped the fixed Ridge specification; negative means its removal improved it

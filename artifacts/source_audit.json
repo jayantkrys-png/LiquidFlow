@@ -1,0 +1,94 @@
+{
+  "reports_downloaded": 102,
+  "included_reports": 87,
+  "excluded_reports": [
+    {
+      "month": "2018-04",
+      "url": "https://portal.amfiindia.com/spages/amapr2018repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    },
+    {
+      "month": "2018-05",
+      "url": "https://portal.amfiindia.com/spages/ammay2018repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    },
+    {
+      "month": "2018-06",
+      "url": "https://portal.amfiindia.com/spages/amjun2018repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    },
+    {
+      "month": "2018-07",
+      "url": "https://portal.amfiindia.com/spages/amjul2018repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    },
+    {
+      "month": "2018-08",
+      "url": "https://portal.amfiindia.com/spages/amaug2018repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    },
+    {
+      "month": "2018-09",
+      "url": "https://portal.amfiindia.com/spages/amsep2018repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    },
+    {
+      "month": "2018-10",
+      "url": "https://portal.amfiindia.com/spages/amoct2018repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    },
+    {
+      "month": "2018-11",
+      "url": "https://portal.amfiindia.com/spages/amnov2018repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    },
+    {
+      "month": "2018-12",
+      "url": "https://portal.amfiindia.com/spages/amdec2018repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    },
+    {
+      "month": "2019-01",
+      "url": "https://portal.amfiindia.com/spages/amjan2019repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    },
+    {
+      "month": "2019-02",
+      "url": "https://portal.amfiindia.com/spages/amfeb2019repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    },
+    {
+      "month": "2019-03",
+      "url": "https://portal.amfiindia.com/spages/ammar2019repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    },
+    {
+      "month": "2019-04",
+      "url": "https://portal.amfiindia.com/spages/amapr2019repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    },
+    {
+      "month": "2019-05",
+      "url": "https://portal.amfiindia.com/spages/ammay2019repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    },
+    {
+      "month": "2019-06",
+      "url": "https://portal.amfiindia.com/spages/amjun2019repo.xls",
+      "reason": "Layout before July 2019 does not report liquid and overnight funds as a comparable pair; not spliced into the series."
+    }
+  ],
+  "acquisition_failures": [],
+  "core_source_hash_verification": "PASS",
+  "primary_key": [
+    "month",
+    "category"
+  ],
+  "original_release_vintages": false,
+  "macro_source_hashes_verified": 95,
+  "macro_acquisition_failures": [],
+  "liquidity_observed_days_range": [
+    3,
+    31
+  ]
+}

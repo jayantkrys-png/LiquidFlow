@@ -1,0 +1,774 @@
+[
+  {
+    "origin": "2021-06",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2021-06",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2021-07",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2021-07",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2021-08",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2021-08",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2021-09",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2021-09",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2021-10",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2021-10",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2021-11",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2021-11",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2021-12",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2021-12",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2022-01",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2022-01",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2022-02",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2022-02",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2022-03",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2022-03",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2022-04",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2022-04",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2022-05",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2022-05",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2022-06",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2022-06",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2022-07",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2022-07",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2022-08",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2022-08",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2022-09",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2022-09",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2022-10",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2022-10",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2022-11",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2022-11",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2022-12",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2022-12",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2023-01",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2023-01",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2023-02",
+    "converged": false,
+    "warnings": [
+      "Maximum Likelihood optimization failed to converge. Check mle_retvals"
+    ],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2023-02",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2023-03",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2023-03",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2023-04",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2023-04",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2023-05",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2023-05",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2023-06",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2023-06",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2023-07",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2023-07",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2023-08",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2023-08",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2023-09",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2023-09",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2023-10",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2023-10",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2023-11",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2023-11",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2023-12",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2023-12",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2024-01",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2024-01",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2024-02",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2024-02",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2024-03",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2024-03",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2024-04",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2024-04",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2024-05",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2024-05",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2024-06",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2024-06",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2024-07",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2024-07",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2024-08",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2024-08",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2024-09",
+    "converged": false,
+    "warnings": [
+      "Maximum Likelihood optimization failed to converge. Check mle_retvals"
+    ],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2024-09",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2024-10",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2024-10",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2024-11",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2024-11",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2024-12",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2024-12",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2025-01",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2025-01",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2025-02",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2025-02",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2025-03",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2025-03",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2025-04",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2025-04",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2025-05",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2025-05",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2025-06",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2025-06",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2025-07",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2025-07",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2025-08",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2025-08",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2025-09",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2025-09",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2025-10",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2025-10",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2025-11",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2025-11",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2025-12",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2025-12",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2026-01",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2026-01",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2026-02",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2026-02",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2026-03",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2026-03",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2026-04",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2026-04",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2026-05",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2026-05",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2026-06",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2026-06",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2026-07",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2026-07",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2026-08",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2026-08",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  },
+  {
+    "origin": "2026-09",
+    "converged": true,
+    "warnings": [],
+    "category": "Liquid"
+  },
+  {
+    "origin": "2026-09",
+    "converged": true,
+    "warnings": [],
+    "category": "Overnight"
+  }
+]
